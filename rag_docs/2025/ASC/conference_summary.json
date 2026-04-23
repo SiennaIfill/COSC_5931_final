@@ -1,0 +1,67 @@
+{
+  "doc_type": "conference_summary",
+  "conference": "ASC",
+  "season": 2025,
+  "teams": [
+    {
+      "season": "2025-2026",
+      "teamid": "605777",
+      "team": "East Tex. Baptist",
+      "conference": "ASC",
+      "s": 116,
+      "kills": 1632,
+      "errors": 516,
+      "total_attacks": 3972,
+      "hit_pct": 0.281,
+      "assists": 1454,
+      "aces": 216,
+      "digs": 1845,
+      "pts": 2080.5
+    },
+    {
+      "season": "2025-2026",
+      "teamid": "605725",
+      "team": "Hardin-Simmons",
+      "conference": "ASC",
+      "s": 100,
+      "kills": 1241,
+      "errors": 476,
+      "total_attacks": 3475,
+      "hit_pct": 0.22,
+      "assists": 1123,
+      "aces": 213,
+      "digs": 1543,
+      "pts": 1686.5
+    },
+    {
+      "season": "2025-2026",
+      "teamid": "605558",
+      "team": "Howard Payne",
+      "conference": "ASC",
+      "s": 95,
+      "kills": 996,
+      "errors": 513,
+      "total_attacks": 3178,
+      "hit_pct": 0.152,
+      "assists": 900,
+      "aces": 193,
+      "digs": 1354,
+      "pts": 1336
+    },
+    {
+      "season": "2025-2026",
+      "teamid": "605537",
+      "team": "Mary Hardin-Baylor",
+      "conference": "ASC",
+      "s": 99,
+      "kills": 1248,
+      "errors": 458,
+      "total_attacks": 3697,
+      "hit_pct": 0.214,
+      "assists": 1148,
+      "aces": 208,
+      "digs": 1746,
+      "pts": 1655
+    }
+  ]
+}
